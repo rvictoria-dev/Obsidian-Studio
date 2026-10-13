@@ -1,0 +1,118 @@
+<!doctype html>
+<html>
+  <head lang="en">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>Creative Studio Portfolio</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+
+    <link rel="stylesheet" href="style.css" />
+    <script src="script.js" defer></script>
+  </head>
+  <body>
+    <header class="main-header">
+      <div class="logo-area">
+        <div class="obsidian-logo"></div>
+        <span class="brand-name">Obsidian Studio</span>
+      </div>
+
+      <div class="timezone-clock" id="live-clock">00:00:00 CA</div>
+
+      <nav class="main-nav">
+        <a href="#works" class="nav-link active">Works</a>
+        <a href="about" class="nav-link">About</a>
+        <a href="services" class="nav-link">Services</a>
+        <a href="contact" class="nav-link">Contact</a>
+      </nav>
+
+      <button class="menu-burger" aria-label="Open Menu" onclick="toggleMenu()">
+        <span class="line-top"></span>
+        <span class="line-bottom"></span>
+      </button>
+    </header>
+
+    <section class="hero-section">
+      <div class="hero-left">
+        <h1 class="main-title">Tactile<br />Shadows</h1>
+      </div>
+
+      <div class="hero-right">
+        <p class="hero-description">
+          A curation of moody imagery and digital architecture. Each project
+          frames light, motion, and deep atmosphere, crafting a visual world
+          well beyond the ordinary.
+        </p>
+        <a href="#works" class="view-all-btn">
+          <span>View All</span>
+        </a>
+      </div>
+    </section>
+
+    <main class="gallery-container">
+      <div class="gallery-grid">
+        <article class="gallery-card card-odd">
+          <div class="image-wrapper">
+            <img src="Assets/digital-devotion.png" alt="" />
+          </div>
+          <div class="card-info">
+            <h3>Digital Devotion</h3>
+            <p>
+              A study in fragmented classical art through modern digital
+              displays.
+            </p>
+            <span class="view-link">View Project</span>
+          </div>
+        </article>
+
+        <article class="gallery-card card-even">
+          <div class="card-info">
+            <h3>Celestial Form</h3>
+            <p>
+              An exploration of stillness and cosmic dust over classic marble
+              curves.
+            </p>
+            <span class="view-link">View Project</span>
+          </div>
+          <div class="image-wrapper">
+            <img src="Assets/celestial-form.png" alt="" />
+          </div>
+        </article>
+
+        <article class="gallery-card card-odd">
+          <div class="image-wrapper">
+            <img src="Assets/gothic-twilight.png" alt="" />
+          </div>
+          <div class="card-info">
+            <h3>Gothic Twilight</h3>
+            <p>
+              A vision of historic architecture merging into a dramatic, moody
+              sky.
+            </p>
+            <span class="view-link">View Project</span>
+          </div>
+        </article>
+
+        <article class="gallery-card card-even">
+          <div class="card-info">
+            <h3>Shadow Gaze</h3>
+            <p>
+              An intimate, fine-art editorial portrait blurring mystery and
+              clarity.
+            </p>
+            <span class="view-link">View Project</span>
+          </div>
+          <div class="image-wrapper">
+            <img src="Assets/shadow-gaze.png" alt="" />
+          </div>
+        </article>
+      </div>
+    </main>
+  </body>
+</html>
