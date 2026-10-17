@@ -2,7 +2,7 @@
 
 ### ₊⊹ About
 
-Is a minimalist creative portfolio designed to showcase a collection of atmospheric visual projects. Featuring cinematic litghting, moody imagery, classical art, and digital architecture, the project combines elegant typography with a clean layout to create an immersive visual experience. Built with a focus on aesthetics, simplicity, and responsive design.
+A minimalist creative portfolio designed to showcase a collection of atmospheric visual projects. Featuring cinematic lighting, moody imagery, classical art, and digital architecture, the project combines elegant typography with a clean layout to create an immersive visual experience. Built with a focus on aesthetics and simplicity.
 
 https://github.com/user-attachments/assets/f7d57dda-2d27-4989-889d-0485b7bbfe39
 
