@@ -1,4 +1,4 @@
-# Creative Studio Portfolio
+# Obsidian Studio
 
 ### ₊⊹ About
 
