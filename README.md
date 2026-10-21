@@ -37,7 +37,7 @@ https://github.com/user-attachments/assets/f7d57dda-2d27-4989-889d-0485b7bbfe39
 
 ```
 Creative-Studio-Portfolio/
-├── Assets/
+├── assets/
 │   ├── celestial-form.png
 │   ├── digital-devotion.png
 │   ├── gothic-twilight.png
