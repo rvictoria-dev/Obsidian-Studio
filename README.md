@@ -36,7 +36,7 @@ https://github.com/user-attachments/assets/f7d57dda-2d27-4989-889d-0485b7bbfe39
 ### 🖿 Project structure
 
 ```
-Creative-Studio-Portfolio/
+creative-studio-portfolio/
 ├── assets/
 │   ├── celestial-form.png
 │   ├── digital-devotion.png
